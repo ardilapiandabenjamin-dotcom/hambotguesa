@@ -27,6 +27,6 @@ async def check(ctx):
     except:
          await ctx.send("Por favor enviar mensaje con una imagen para analizar, recuerda que tienes 60 segundos.")
 
-hambotguesa.run("MTUyNzgwMzgyMzM0NTc2NjU5Mg.GabaYV.ikrBkbLoITj2N4YbA4MBiUGBVuZkd6Gnu11H2EMTUyNzgwMzgyMzM0NTc2NjU5Mg.GabaYV.ikrBkbLoITj2N4YbA4MBiUGBVuZkd6Gnu11H2E")
+hambotguesa.run("bot token")
 
     
